@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec6bd15b2aba6b042803d2ae4a1a557b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BomBulletObj: {fileID: 5174351887859401496, guid: f3f808e4df7da2745b271e72f81e2223,
+      type: 3}
+  - Prefab: {fileID: 4160180085651913430, guid: f3f808e4df7da2745b271e72f81e2223,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 87dd5727f4f16cd4d8f6b047ae48d55d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objBom: {fileID: 2742253897859907094, guid: 6f283c00b7016124b8386535ecbb1bc5,
+      type: 3}
+  - BomBulletPrefab: {fileID: 5174351887859401496, guid: f3f808e4df7da2745b271e72f81e2223,
+      type: 3}
+  - BomBulletObj: {fileID: 5174351887859401496, guid: f3f808e4df7da2745b271e72f81e2223,
+      type: 3}
+  - Prefab: {fileID: 4160180085651913430, guid: f3f808e4df7da2745b271e72f81e2223,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
